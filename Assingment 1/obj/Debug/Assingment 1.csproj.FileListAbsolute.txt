@@ -1,0 +1,49 @@
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\bin\Debug\Assingment 1.exe.config
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\bin\Debug\Assingment 1.exe
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\bin\Debug\Assingment 1.pdb
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment_1.Form1.resources
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment 1.exe
+c:\users\21700361\documents\visual studio 2015\Projects\Assingment 1\obj\Debug\Assingment 1.pdb
+E:\usman\programming\Assingment 1\bin\Debug\Assingment 1.exe.config
+E:\usman\programming\Assingment 1\bin\Debug\Assingment 1.exe
+E:\usman\programming\Assingment 1\bin\Debug\Assingment 1.pdb
+E:\usman\programming\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+E:\usman\programming\Assingment 1\obj\Debug\Assingment_1.frmSalesSystem.resources
+E:\usman\programming\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+E:\usman\programming\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+E:\usman\programming\Assingment 1\obj\Debug\Assingment 1.exe
+E:\usman\programming\Assingment 1\obj\Debug\Assingment 1.pdb
+E:\semester 2\programming\Assingment 1\bin\Debug\Assingment 1.exe.config
+E:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.exe
+E:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.pdb
+Q:\programming\Assingment 1\bin\Debug\Assingment 1.exe.config
+Q:\programming\Assingment 1\obj\Debug\Assingment 1.exe
+Q:\programming\Assingment 1\obj\Debug\Assingment 1.pdb
+Q:\programming\Assingment 1\bin\Debug\Assingment 1.exe
+Q:\programming\Assingment 1\bin\Debug\Assingment 1.pdb
+Q:\programming\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+Q:\programming\Assingment 1\obj\Debug\Assingment_1.frmSalesSystem.resources
+Q:\programming\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+Q:\programming\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+G:\semester 2\programming\Assingment 1\bin\Debug\Assingment 1.exe.config
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.exe
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.pdb
+G:\semester 2\programming\Assingment 1\bin\Debug\Assingment 1.exe
+G:\semester 2\programming\Assingment 1\bin\Debug\Assingment 1.pdb
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.csprojResolveAssemblyReference.cache
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment_1.frmSalesSystem.resources
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+G:\semester 2\programming\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.Cache
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\bin\Debug\Assingment 1.exe.config
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\bin\Debug\Assingment 1.exe
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\bin\Debug\Assingment 1.pdb
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment 1.csprojAssemblyReference.cache
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment_1.frmSalesSystem.resources
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment_1.Properties.Resources.resources
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment 1.csproj.GenerateResource.cache
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment 1.csproj.CoreCompileInputs.cache
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment 1.exe
+E:\BIT\Year 1\Semester 2\programming\Assingment 1\obj\Debug\Assingment 1.pdb
