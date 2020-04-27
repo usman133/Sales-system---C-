@@ -3,7 +3,7 @@
 What is it: 
 A basic sales system created as part of an assignment, using C# forms.
 
-Functionalities included:
+Functionalities include:
 * Recording customer details 
 * Displaying available items and their prices
 * Recording order details (i.e. how many of each item)
